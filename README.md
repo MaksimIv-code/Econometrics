@@ -11,9 +11,9 @@ and the use of regression methods such as linear, polynomial, and random forest.
 
 ### Technologies
 - Python  
-- CustomTkinter / Tkinter — GUI design  
-- SQLite3 — database management  
-- Pandas, NumPy — data handling  
-- Matplotlib — visualization  
-- Scikit-learn — regression algorithms  
-- PIL — interface images and icons
+- CustomTkinter / Tkinter - GUI design  
+- SQLite3 - database management  
+- Pandas, NumPy - data handling  
+- Matplotlib - visualization  
+- Scikit-learn - regression algorithms  
+- PIL - interface images and icons
